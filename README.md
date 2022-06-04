@@ -1,4 +1,7 @@
-<h1> Hello! I'm Andy!</h1>
+## Hello! I'm Andy!<img src="https://user-images.githubusercontent.com/99088112/171971425-393f9028-2e83-412f-96b5-c1435be4264c.gif" width="70" />
+
+
+
 
 <!--
 **Alondra87/Alondra87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
