@@ -7,7 +7,7 @@ Remote Full-stack web developer starting the adventure with Microverse🚀
 - ⚡ Skills: HTML, CSS and JavaScript
 - 🌱 Learning more about and studying: JavaScript
 - 💜 Interests: travel ✈ , News 🌍, Movies 🎬
-- 👋🏻 Feel free to get in touch!
+- 👋 Feel free to get in touch!
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
