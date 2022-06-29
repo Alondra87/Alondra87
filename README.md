@@ -9,8 +9,9 @@ Remote Full-stack web developer starting the adventure with Microverse🚀
 - 💜 Interests: travel ✈ , News 🌍, Movies 🎬
 - 👋 Feel free to get in touch!
 
-![stats](https://github-readme-stats.vercel.app/api?username=alondra87&show_icons=true&theme=radical)
+![stats](https://github-readme-stats.vercel.app/api?username=Alondra87&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alondra87&hide=shell,ruby&theme=tokyonight)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
