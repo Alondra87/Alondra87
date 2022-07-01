@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/99088112/171981203-5fb41937-837e-4d51-ae47-b8cd88309d21.png)<img src="https://user-images.githubusercontent.com/99088112/171971425-393f9028-2e83-412f-96b5-c1435be4264c.gif" height="200" />
 <hr>
 
-Remote Full-stack web developer starting the adventure with &nbsp;&nbsp;<img src="https://img.shields.io/badge/Microverse-blueviolet"/> &nbsp;&nbsp; 🚀👩‍🚀 
+Aspiring remote Full-stack web developer starting the adventure with &nbsp;&nbsp;<img src="https://img.shields.io/badge/Microverse-blueviolet"/> &nbsp;&nbsp; 🚀👩‍🚀 
 
 <br>
 
